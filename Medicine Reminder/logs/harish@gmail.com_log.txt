@@ -1,4 +1,0 @@
-2025-08-09 12:25:45.143718 - BP - Skipped
-2025-08-09 12:37:17.473831 - BP tablet - Taken
-2025-08-09 12:53:44.635996 - BP tablet - Skipped
-2025-08-09 12:55:17.630842 - sugar tablet - Skipped
